@@ -59,3 +59,5 @@ if accion in ["Actualizar"]:
     empleado = st.selectbox("Selecciona un empleado", empleados)
     proyecto = st.selectbox("Selecciona un proyecto", proyectos)
     horas_trabajadas = st.number_input("Horas trabajadas", min_value=0, max_value=100)
+
+    print("")
