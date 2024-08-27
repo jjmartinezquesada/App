@@ -1,4 +1,1 @@
 sqlalchemy
-psycopg2
-streamlit
-pandas
